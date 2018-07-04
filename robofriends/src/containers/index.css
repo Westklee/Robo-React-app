@@ -1,0 +1,21 @@
+
+@font-face {
+font-family: 'Robotaur 3D';
+font-style: normal;
+font-weight: normal;
+src: local('Robotaur 3D'), url('robotaur3d.woff') format('woff');
+}
+  
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to left, rgba(7,27,82,1)0%, rgba(0,128,128,1)100%);
+}
+h1 {
+font-family:'Robotaur 3D';
+font-weight:normal;
+color:#afead5;
+font-size:5vw !important;
+} 
